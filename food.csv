@@ -1,0 +1,1001 @@
+﻿f_id,item,veg_or_non_veg
+fd0,Aloo Tikki Burger,Veg
+fd1,Veg Creamy Burger,Veg
+fd2,Cheese Burst Burger,Veg
+fd3,Paneer Creamy Burger,Veg
+fd4,Maxican Burger,Veg
+fd5,Bbq Chicken Burger,Non-veg
+fd6,Peri Peri Chicken Burger,Non-veg
+fd7,White Sauce,Veg
+fd8,Red Sauce,Veg
+fd9,Pink Sauce,Veg
+fd10,Masala Pasta,Veg
+fd11,Chicken Pasta,Non-veg
+fd12,Egg Pasta,Non-veg
+fd13,Noodles,Veg
+fd14,Singapuri Noodles,Veg
+fd15,Hakka Noodles,Veg
+fd16,Garlic Noodles,Veg
+fd17,Paneer Noodles,Veg
+fd18,Dry Manchurian,Veg
+fd19,Gravy Manchurian,Veg
+fd20,Cheese Chilly Dry,Veg
+fd21,Cheese Chilly Gravy,Veg
+fd22,Egg Chilly,Non-veg
+fd23,Chicken Chilly,Non-veg
+fd24,Spring Roll [2pc],Veg
+fd25,Momos [8pc],Veg
+fd26,Honey Chilly Patato,Veg
+fd27,Honey Chilly Cauliflower,Veg
+fd28,Veg Fried Rice,Veg
+fd29,Chicken Fried Rice,Non-veg
+fd30,Kfc Fried Chicken,Non-veg
+fd31,Fried Chicken,Non-veg
+fd32,Veg Mayo Sandwich,Veg
+fd33,Veg Creamy Sandwich,Veg
+fd34,Bombay Sandwich,Veg
+fd35,Paneer Tikka Sandwich,Veg
+fd36,Chicken Sandwich,Non-veg
+fd37,Peri Peri Sandwich,Veg
+fd38,Egg Sandwich,Non-veg
+fd39,Classical Fries,Veg
+fd40,Red Chilli Papper,Veg
+fd41,Creamy Fries,Veg
+fd42,Peri Peri Fries,Veg
+fd43,Egg Roll,Non-veg
+fd44,Veg Roll,Veg
+fd45,Paneer Roll,Veg
+fd46,Chicken Roll,Non-veg
+fd47,Egg Chicken Roll [Double],Non-veg
+fd48,Veg Wrapes,Veg
+fd49,Paneer Wrapes,Veg
+fd50,Peri Peri Chicken Wrapes,Non-veg
+fd51,Egg Wrapes,Non-veg
+fd52,Simple Garlic Bread,Veg
+fd53,Veg Garlic Bread,Veg
+fd54,Stuff Garlic Bread,Veg
+fd55,2 Alao Prantha + Dahi,Veg
+fd56,Bhature,Veg
+fd57,Spl Tiffen [Desi Ghee],Veg
+fd58,Piyaz Prantha Dahi,Veg
+fd59,Paneer Prantha + Dahi,Veg
+fd60,Veg Kulcha,Veg
+fd61,Veg Mayo Kulcha,Veg
+fd62,Masala Kulcha,Veg
+fd63,Paneer Kulcha,Veg
+fd64,Makhni Kulcha,Veg
+fd65,Masala Maggie 2 Packet,Veg
+fd66,Veg Maggie 2 Packet,Veg
+fd67,Tandoori Maggie 2 Packet,Veg
+fd68,Chicken Maggie,Non-veg
+fd69,Creamy Maggie,Veg
+fd70,Egg Maggie,Non-veg
+fd71,Pav Bhaji,Veg
+fd72,Creamy Pav Bhaji,Veg
+fd73,Virgin Moijto,Veg
+fd74,Blue Curracco,Veg
+fd75,Green Apple,Veg
+fd76,Pinacolado,Veg
+fd77,X Mass Punch,Veg
+fd78,Masala Coke,Veg
+fd79,Jaljeera,Veg
+fd80,Margherita Pizza,Veg
+fd81,Cheese Margherita [Double],Veg
+fd82,Capcicum Onion Pizza,Veg
+fd83,Mashroom Corn Pizza,Veg
+fd84,Only Corn Pizza,Veg
+fd85,Only Onion Pizza,Veg
+fd86,Onion Olive Pizza,Veg
+fd87,Vanila Shake,Veg
+fd88,Choclate Shake,Veg
+fd89,Staweberry Shake,Veg
+fd90,Oreo Shake,Veg
+fd91,Butter Scotch Shake,Veg
+fd92,Banana Shake,Veg
+fd93,Pineapple Shake,Veg
+fd94,Mango Shake,Veg
+fd95,Blue Berry Shake,Veg
+fd96,Nutela Shake,Veg
+fd97,Kit Kat Shake,Veg
+fd98,Kit   K at Shake,Veg
+fd99,Staweberry Oreo Shake,Veg
+fd100,Black Current Shake,Veg
+fd101,Brownie Shake,Veg
+fd102,Paneer Tikka Pizza,Veg
+fd103,Spicy Paneer Pizza,Veg
+fd104,Farm House Pizza,Veg
+fd105,Country Feast Pizza,Veg
+fd106,Paneer Makhni Pizza,Veg
+fd107,Otc Onion Tamato Corn Pizza,Veg
+fd108,Chicken Pizza,Non-veg
+fd109,Peri Peri Paneer Pizza,Veg
+fd110,Egg Pizza,Non-veg
+fd111,Mashroom Pizza,Veg
+fd112,Ab Special Pizza,Veg
+fd113,Classical Cold Coffee,Veg
+fd114,Hezelnut Cold Coffee,Veg
+fd115,Frape Cold Coffee,Veg
+fd116,Veg Grilled Sandwich,Veg
+fd117,Veg Sandwich,Veg
+fd118,Dhokla,Veg
+fd119,Channa Bhatura [2 Pc],Veg
+fd120,Chana Bhatura With Lassi,Veg
+fd122,Milk Badam Shake,Veg
+fd123,Namkeen Lassi,Veg
+fd124,Cold Coffee,Veg
+fd125,Butterscotch Shake,Veg
+fd129,Strawberry Shake,Veg
+fd130,Roohafza Milkshake,Veg
+fd131,Lassi [sweet],Veg
+fd132,Burgers Pack,Veg
+fd133,Barfi Pack,Veg
+fd134,Starters Combo,Veg
+fd135,Chai Time Combo,Veg
+fd136,South Special,Veg
+fd137,Snacks Combo,Veg
+fd138,Patties Combo,Veg
+fd139,Pastry Pack,Veg
+fd140,Modak Laddu,Veg
+fd141,Dhodha,Veg
+fd142,Baisan Barfi,Veg
+fd143,Rewari Barfi,Veg
+fd144,Kesar Laddu (desi Ghee),Veg
+fd145,Moti Pak (desi Ghee),Veg
+fd146,Pinni (desi Ghee),Veg
+fd147,Sohan Halwa,Veg
+fd148,Kalakand,Veg
+fd149,Chocolate Burfi,Veg
+fd150,Elaichi Burfi,Veg
+fd151,Kesar Katli,Veg
+fd152,Khoya Katli,Veg
+fd153,Mandakini Burfi,Veg
+fd154,Plain Burfi,Veg
+fd155,Anguri Petha,Veg
+fd156,Khurmani,Veg
+fd157,Murki Chhena,Veg
+fd158,Spungi Rasbhari,Veg
+fd159,Rasbhari,Veg
+fd160,Chamcham,Veg
+fd161,Tosha,Veg
+fd162,Rasgulla,Veg
+fd163,Gulab Jamun,Veg
+fd164,Rasmalai [1 Piece],Veg
+fd165,Spungi Rasgulla [1 Piece],Veg
+fd166,Emarti,Veg
+fd167,Jullie,Veg
+fd168,Kaju Katli,Veg
+fd169,Kesar Laddu,Veg
+fd170,Moti Choor Laddu,Veg
+fd171,Baisan Pinni,Veg
+fd172,Dry Fruit Pinni,Veg
+fd173,Mango Pera,Veg
+fd174,Chana Laddu,Veg
+fd175,Chocolate Roll,Veg
+fd176,Kesar Roll,Veg
+fd177,Pista Roll,Veg
+fd178,Malai Pera,Veg
+fd179,Mini Pera,Veg
+fd180,Badam Cake,Veg
+fd181,Coconut Burfi,Veg
+fd182,Milk Cake,Veg
+fd183,Boondi,Veg
+fd184,Sandwich [mithai],Veg
+fd185,Aam Papad Roll,Veg
+fd186,Soan Papdi [1 Kg],Veg
+fd187,Sirni [500 Grams],Veg
+fd188,Balushai [500 Grams],Veg
+fd189,Shakarpare [500 Grams],Veg
+fd190,Gurpare [500 Grams],Veg
+fd191,Hot Gulab Jamun [1 Pc],Veg
+fd192,Basket Gift Pack,Veg
+fd193,Dry Fruit Tray,Veg
+fd194,All Mix Sweet,Veg
+fd195,3 Line Mix Sweet,Veg
+fd196,Pista Roasted,Veg
+fd197,Kishmish,Veg
+fd198,Badam Giri,Veg
+fd199,Kaju Namkeen Roasted,Veg
+fd200,Kaju Plain,Veg
+fd201,Dahi,Veg
+fd202,Paneer,Veg
+fd203,Bhalla Papdi,Veg
+fd204,Dahi Bhalla,Veg
+fd205,Dahi Vada,Veg
+fd206,Special Pav Bhaji,Veg
+fd208,Cheese Cutlet,Veg
+fd209,Veg Cutlet,Veg
+fd210,Noodles Cutlet,Veg
+fd211,Paneer Pakoda,Veg
+fd212,Samosa,Veg
+fd213,Samosa With Chana,Veg
+fd214,Masala Papad,Veg
+fd215,Noodles Patties,Veg
+fd216,Veg Patties,Veg
+fd217,Paneer Patties,Veg
+fd218,Cheese Burger Fry,Veg
+fd219,Veg Burger Fry,Veg
+fd220,Tikki Burger,Veg
+fd221,Noodles Burger,Veg
+fd222,Cheese Hot Dog,Veg
+fd223,Veg Hot Dog,Veg
+fd224,Mushroom Chowmein,Veg
+fd225,Special Chowmein,Veg
+fd226,Paneer Chowmein,Veg
+fd228,Singapore Chopsuey,Veg
+fd229,American Chopsuey,Veg
+fd230,Cheese Tikka Fry,Veg
+fd231,Cheese Corn Roll,Veg
+fd232,Cheese Spring Roll,Veg
+fd233,Veg Spring Roll,Veg
+fd234,Cheese Manchurian With Gravy,Veg
+fd235,Cheese Manchurian,Veg
+fd236,Veg Manchurian With Gravy,Veg
+fd237,Veg Manchurian,Veg
+fd238,Mushroom Chilly,Veg
+fd239,Cheese Chilli With Gravy,Veg
+fd240,Cheese Chilli,Veg
+fd241,French Fries,Veg
+fd242,Cheese Finger,Veg
+fd243,Potato Finger,Veg
+fd244,Veg Bullet,Veg
+fd245,Cheese Kabab,Veg
+fd246,Veg Kabab,Veg
+fd247,Veg Cotton Kabab,Veg
+fd248,Sambar Vada,Veg
+fd249,Mushroom Uttapam,Veg
+fd250,Cheese Uttapam,Veg
+fd251,Onion Uttapam,Veg
+fd252,Special Family Dosa,Veg
+fd253,Mushroom Masala Dosa,Veg
+fd254,Paneer Dosa,Veg
+fd255,Masala Dosa,Veg
+fd256,Plain Dosa,Veg
+fd257,Onion Butter Masala Dosa,Veg
+fd258,Pizza Dosa,Veg
+fd259,Pasta White Sauce,Veg
+fd260,Pasta Red Sauce,Veg
+fd261,Capsicum Pizza [medium 8 Inches],Veg
+fd262,Cheese And Chilli Pizza [medium 8 Inches],Veg
+fd263,Cheese Pizza [medium 8 Inches],Veg
+fd264,Mushroom Pizza [medium 8 Inches],Veg
+fd265,Onion Pizza [medium 8 Inches],Veg
+fd266,Paneer Tikka Pizza [medium 8 Inches],Veg
+fd267,Veg Pizza [medium 8 Inches],Veg
+fd268,Pitthi Samosi,Veg
+fd269,Samosa Mathi,Veg
+fd270,Methi Mathi,Veg
+fd271,Plain Mathi,Veg
+fd272,Kaju Matar [190 Grams],Veg
+fd273,Matri [190 Grams],Veg
+fd274,Papri [500 Grams],Veg
+fd275,Pudina Boondi [190 Grams],Veg
+fd276,Plain Boondi [190 Grams],Veg
+fd277,Fruit Cake,Veg
+fd278,Cake [900 Grams],Veg
+fd279,Fruit Cake (egg),Non-veg
+fd280,Jam Roll Pastry,Veg
+fd281,Chocolate Pastry,Veg
+fd282,Black Forest Pastry,Veg
+fd283,Swiss Roll Pastry,Veg
+fd284,Milk Badam Pastry,Veg
+fd285,Butterscotch Pastry,Veg
+fd286,Jelly Pastry,Veg
+fd287,Strwaberry Pastry,Veg
+fd288,Vanila Pastry,Veg
+fd289,Pineapple Pastry,Veg
+fd290,Choco Lava Cake,Veg
+fd291,Cream Roll,Veg
+fd292,Cake Rusk,Non-veg
+fd293,Atta Namkeen Biscuit [400 Grams],Veg
+fd294,Atta Sweet Biscuit [400 Grams],Veg
+fd295,French Heart,Veg
+fd296,Fan,Veg
+fd297,Suju Rusk,Veg
+fd298,Atta Biscuit (desi Ghee),Veg
+fd299,Butter Pista Finger,Veg
+fd300,White Chocolate Donut,Veg
+fd301,Chocolate Donut,Veg
+fd302,Pistachio Rabri,Veg
+fd303,Sabu Dana Lachha Mix,Veg
+fd304,Badam Lachha,Veg
+fd305,Potato Papad,Veg
+fd306,Potato Chips,Veg
+fd307,Manchow Soup,Veg
+fd308,Tomato Cream Soup,Veg
+fd309,Tomato Soup,Veg
+fd310,Veg Sweet Corn Soup,Veg
+fd311,Veg Soup,Veg
+fd312,Cafe Latte Coffee,Veg
+fd313,Cafe Mocha Coffee,Veg
+fd314,Chocolate Shake,Veg
+fd316,Walnut Brownie,Veg
+fd317,Chocolaty Frappe,Veg
+fd319,Cheese Garlic Bread,Veg
+fd320,Exotic Garlic Bread,Veg
+fd321,Paneer Wrap,Veg
+fd322,Mexican Veg Wrap,Veg
+fd323,Paneer Tikka Sub,Veg
+fd324,8 ' Regular Farm House Pizza,Veg
+fd325,10 ' Medium Farm House Pizza,Veg
+fd326,13 'Large Farm House Pizza,Veg
+fd327,American Cheese Burger,Veg
+fd329,Veg Burger,Veg
+fd330,Chicken Burger,Non-veg
+fd331,8 ' Regular Spicy Paneer Pizza,Veg
+fd332,13 ' Large Spicy Paneer Pizza,Veg
+fd334,8 ' Regular Paneer Makhani Pizza,Veg
+fd335,13 ' Large Paneer Makhani Pizza,Veg
+fd336,Red Penne Alfredo Pasta,Veg
+fd337,White Penne Alfredo Pasta,Veg
+fd338,Mix Sauce Penne Alfredo Pasta,Veg
+fd339,10 ' Medium Loaded Chicken Pizza,Non-veg
+fd340,Paneer Tikka Salad,Veg
+fd341,Chicken Delight Salad,Non-veg
+fd342,8 ' Regular Chicken Tikka Pizza,Non-veg
+fd343,13 ' Large Tandoori Chicken Pizza,Non-veg
+fd344,2 Strawberry Shake + 2 Punjabi Paneer Cruncher (Without Onion + Garlic) + 1 Mint Mojito Mocktail,Veg
+fd345,2 Butterscotch Shake + 2 Red Penne Mushroom Pata (Without Onion + Garlic) + 3 Veg Burger (Without Onion + Garlic),Veg
+fd346,3 Piece 8' Regular Spicy Corn Tango Pizza (Without Onion + Garlic) + 3 Choclate Shakes,Veg
+fd347,3 American Cheese Burger (Without Onion + Garlic) + 3 Tcd Special Shake,Veg
+fd348,3 Oreo Shake + 3 Paneer Wrap (Without Onion + Garlic),Veg
+fd349,Americano Black Coffee,Veg
+fd350,Cappuccino Coffee,Veg
+fd351,Hot Chocolate Coffee,Veg
+fd352,Hazelnut Cappuccino Coffee,Veg
+fd353,Cookie Cappuccino Coffee,Veg
+fd355,Irish Cafe Latte Coffee,Veg
+fd356,Caramel Latte Coffee,Veg
+fd358,Assam Tea,Veg
+fd359,Green Tea,Veg
+fd360,Lemon Ice Tea,Veg
+fd361,Peach Ice Tea,Veg
+fd362,Strawberry Ice Tea,Veg
+fd363,Classic Lemonade,Veg
+fd364,Strawberry Lemonade,Veg
+fd365,Mint Lemonade,Veg
+fd367,TCD Special Shake,Veg
+fd371,Vanilla Shake,Veg
+fd372,Greenapple Shake,Veg
+fd375,Paan Shake,Veg
+fd376,Orange chocolate shake,Veg
+fd378,Fruit Sundae,Veg
+fd379,Paan Sundae,Veg
+fd380,Devils Own Desi Style Coffee,Veg
+fd381,Classic Cold Coffee,Veg
+fd382,Iced Cappuccino Coffee,Veg
+fd383,Iced Vanilla Cappuccino Coffee,Veg
+fd384,Cafe Frappe,Veg
+fd386,Caramel Frappe,Veg
+fd387,Masala Fries with Dip,Veg
+fd388,Mexican Tokari,Veg
+fd389,Cheese Shots,Veg
+fd390,Veg Fingers,Veg
+fd391,Triple S,Non-veg
+fd392,Chicken Finger(peri peri),Non-veg
+fd393,Chicken Finger 5pc(Barbeque),Non-veg
+fd395,Seekh Kabab with Dip,Non-veg
+fd396,Chicken Nuggets,Non-veg
+fd397,Chicken Popcorn,Non-veg
+fd398,Chicken Finger (5 Pcs),Non-veg
+fd399,Plain Garlic Bread,Veg
+fd401,Chilly Corn Garlic Bread,Veg
+fd402,Tandoori Cavity,Veg
+fd404,Roasted Chicken Garlic Bread,Non-veg
+fd405,Seekh Kabab Garlic Bread,Non-veg
+fd406,Mint Mojito Mocktail,Veg
+fd407,Cucumber Lemon Mojito Mocktail,Veg
+fd408,Meloneez Mocktail,Veg
+fd409,Candid Apple Mocktail,Veg
+fd410,TCD Float (Coke with Ice Cream Float) Mocktail,Veg
+fd411,Lemon Coke Mocktail,Veg
+fd412,Malt (Taste of Beer) Mocktail,Veg
+fd413,Blue Curacao,Veg
+fd414,Spicy Mango,Veg
+fd416,Seekh Kabab Wrap,Non-veg
+fd417,Chicken Tikka Wrap,Non-veg
+fd418,Tandoori Chicken Wrap,Non-veg
+fd419,Single egg single chicken wrap,Non-veg
+fd420,Aloo Wrap,Veg
+fd422,Egg Wrap,Non-veg
+fd423,Pasta Wrap,Veg
+fd425,Veg Tikki Sub,Veg
+fd426,Veg Delight Sub,Veg
+fd427,Chicken Tikka Sub,Non-veg
+fd428,Chicken Delight Sub,Non-veg
+fd429,Saute Chicken Sub,Non-veg
+fd430,2 Pieces Chicken Tikka Sandwich  +  Classic Lemonade,Non-veg
+fd431,2 Pieces Paneer Tikka Sandwich + Cappuccino,Veg
+fd432,1 Veg Burger with Cheese + Classic Cold Coffee,Veg
+fd433,1 Chicken Burger with Cheese + Classic Cold Coffee,Non-veg
+fd434,Mexican Veg Wrap + Lemon Coke,Veg
+fd435,Chicken Wrap + Meloneez,Non-veg
+fd439,8 ' Regular Special Wonder Pizza,Veg
+fd440,10 ' Medium Special Wonder Pizza,Veg
+fd441,13 ' Large Special Wonder Pizza,Veg
+fd442,Punjabi Paneer Cruncher,Veg
+fd443,Double Decker Veg Burger,Veg
+fd445,Exotic Egg Burger,Non-veg
+fd446,Spicy Chicken Burger,Non-veg
+fd447,Double Decker Chicken Burger,Non-veg
+fd448,American chicken burger,Non-veg
+fd451,Spicy Veg Burger,Veg
+fd453,8 ' Regular Tandoori Paneer Pizza,Veg
+fd454,10 ' Medium Tandoori Paneer Pizza,Veg
+fd455,13 ' Large Tandoori Paneer Pizza,Veg
+fd456,8 ' Regular Hot & Sweet Delight Pizza,Veg
+fd457,10 'Medium Hot & Sweet Delight Pizza,Veg
+fd458,13 ' Large Hot & Sweet Delight Pizza,Veg
+fd459,8 ' Regular Veg Feast Pizza,Veg
+fd460,10 ' Medium Veg Feast Pizza,Veg
+fd461,13 ' Large Veg Feast Pizza,Veg
+fd462,8 ' Regular Spicy Corn Tango Pizza,Veg
+fd463,13 ' Large Spicy Corn Tango Pizza,Veg
+fd465,10 'Medium Spicy Paneer Pizza,Veg
+fd467,Corn Delight Sandwich,Veg
+fd468,Veg Cheese Sandwich,Veg
+fd470,Paneer Makhani Sandwich,Veg
+fd471,Mexican Sandwich,Veg
+fd472,Veg Delight Sandwich,Veg
+fd473,Chicken Tikka Sandwich,Non-veg
+fd474,Egg Delight Sandwich,Non-veg
+fd475,Chicken Delight Sandwich,Non-veg
+fd476,Double Decker Ontario Sandwich,Non-veg
+fd477,Schezwan Veg sandwich,Veg
+fd478,Schezwan chicken sandwich,Non-veg
+fd479,Cheesy Marghrita (Medium),Veg
+fd480,Cheesy Margheritta Pizza (Large),Veg
+fd481,Cheesy  Margherita (Regular),Veg
+fd483,10 ' Medium Paneer Makhani Pizza,Veg
+fd486,Red Penne Mushroom Pasta,Veg
+fd487,Red Exotic Veggie Pasta,Veg
+fd488,Red Penne Chicken Pasta,Non-veg
+fd490,White Penne Mushroom Pasta,Veg
+fd491,White Exotic Veggie Pasta,Veg
+fd492,White Penne Chicken Pasta,Non-veg
+fd494,Mix Sauce Penne Mushroom Pasta,Veg
+fd495,Mix Sauce Exotic Veggie Pasta,Veg
+fd496,Mix Sauce Penne Chicken Pasta,Non-veg
+fd497,American crunchy veg pasta,Veg
+fd498,American Crunchy chicken pasta,Non-veg
+fd499,8 ' Regular Spicy Chicken Pizza,Non-veg
+fd500,10 ' Medium Spicy Chicken Pizza,Non-veg
+fd501,13 ' Large Spicy Chicken Pizza,Non-veg
+fd502,8 ' Regular Chicken Love Pizza,Non-veg
+fd503,10 ' Medium Chicken Love Pizza,Non-veg
+fd504,13 ' Large Chicken Love Pizza,Non-veg
+fd505,8 ' Regular Loaded Chicken Pizza,Non-veg
+fd507,13 ' Large Loaded Chicken Pizza,Non-veg
+fd508,8 ' Regular Hawaiian Delight Pizza,Non-veg
+fd509,10 ' Medium Hawaiian Delight Pizza,Non-veg
+fd510,13 ' Large Hawaiian Delight Pizza,Non-veg
+fd511,8 ' Regular Golden Delight Pizza,Non-veg
+fd512,10 ' Medium Golden Delight Pizza,Non-veg
+fd513,13 ' Large Golden Delight Pizza,Non-veg
+fd515,Veg Tikki Salad,Veg
+fd516,Veg Delight Salad,Veg
+fd517,Chicken Tikka Salad,Non-veg
+fd519,Saute Chicken Salad,Non-veg
+fd520,Egg Salad,Non-veg
+fd521,Nacho Salad,Veg
+fd522,Crispy veg saled,Veg
+fd524,10 ' Medium Chicken Tikka Pizza,Non-veg
+fd525,13 ' Large Chicken Tikka Pizza,Non-veg
+fd526,8 ' Regular Tandoori Chicken Pizza,Non-veg
+fd527,10 ' Medium Tandoori Chicken Pizza,Non-veg
+fd529,1 Aloo Tikki Burger + 1 Single Topping Onion Pizza,Veg
+fd530,1 Aloo Tikki Burger + 1 Single Topping Corn Pizza,Veg
+fd531,Malai Chaap,Veg
+fd532,Afghani Chaap,Veg
+fd533,Tandoori Chaap,Veg
+fd534,Pudina Chaap,Veg
+fd535,Achari Chaap,Veg
+fd536,Chaap Tikka Gravy,Veg
+fd537,Keema Chaap Gravy,Veg
+fd538,Paneer Tikka Butter Masala,Veg
+fd539,Rumali Roti,Veg
+fd540,Chilli Chaap,Veg
+fd541,Chilli Mushroom,Veg
+fd543,Manchurian Gravy,Veg
+fd544,Chilli Potato,Veg
+fd545,Honey Chilli Potato,Veg
+fd546,French Fry,Veg
+fd548,Momos (10 Pcs),Veg
+fd549,Fried Momos (10 Pcs),Veg
+fd550,Tandoori Momos (8 Pcs),Veg
+fd551,Malai Paneer,Veg
+fd552,Veg Chow mien,Veg
+fd553,Cheese Chow mien,Veg
+fd554,Singapore Chow mien,Veg
+fd555,Chaap Roll,Veg
+fd556,Combos,Veg
+fd562,Irani Chaap,Veg
+fd563,Fried Chaap,Veg
+fd567,Kadai Paneer,Veg
+fd568,Mushroom Tikka Masala,Veg
+fd581,Masala Fried Momos (8 Pcs),Veg
+fd582,Veg Manchow Soup,Veg
+fd584,Afghani Paneer,Veg
+fd585,Irani Paneer,Veg
+fd586,Tandoori Paneer,Veg
+fd587,Pudina Paneer,Veg
+fd588,Achari Paneer,Veg
+fd589,Golden Fried Paneer,Veg
+fd590,Malai Mushroom,Veg
+fd591,Afghani Mushroom,Veg
+fd592,Irani Mushroom,Veg
+fd593,Tandoori Mushroom,Veg
+fd594,Pudina Mushroom,Veg
+fd595,Achari Mushroom,Veg
+fd596,Golden Fried Mushroom,Veg
+fd598,Veg Hakka Chow mien,Veg
+fd601,Mixed Veg Chow mien,Veg
+fd602,Chaap Chow mien,Veg
+fd605,Mushroom Roll,Veg
+fd606,Mixed Roll,Veg
+fd608,Junior,Veg
+fd609,Texas,Veg
+fd610,New Yorker,Veg
+fd611,Paneer Crisp,Veg
+fd612,Giga Bite,Veg
+fd613,Mexican Paneer,Veg
+fd614,Veg Mountain,Veg
+fd615,Compact Burger,Non-veg
+fd616,Bad Boy,Non-veg
+fd617,Big Devil,Non-veg
+fd618,Illegal Burger,Non-veg
+fd619,Grilled Chicken Burger,Non-veg
+fd620,Crispy Chicken Burger,Non-veg
+fd621,The Heavy Driver,Non-veg
+fd622,Chicken Mountain,Non-veg
+fd623,Veg Wrap,Veg
+fd625,Mexican Tortilla,Veg
+fd626,Peri Peri Paneer Wrap,Veg
+fd627,Chicken Barbeque,Non-veg
+fd628,Chicken Crust Wrap,Non-veg
+fd629,Chicken Salami Wrap,Non-veg
+fd630,Crispy Chicken Wrap,Non-veg
+fd632,Chicken Southern Spice,Non-veg
+fd633,Warm Up Sandwich,Veg
+fd634,Cheesy Corn Sandwich,Veg
+fd635,Mexican Wave Sandwich,Veg
+fd637,Chicken Salami,Non-veg
+fd638,Saucy Mexicano,Non-veg
+fd639,Chicken Paradise,Non-veg
+fd640,Fiery Chicken,Non-veg
+fd641,Cheese & Onion,Veg
+fd642,Cheese & Corn,Veg
+fd643,Cheese & Paneer,Veg
+fd644,Queen Margherita [Small],Veg
+fd645,Veggie Garden [Small],Veg
+fd646,Corn & Olive [Small],Veg
+fd647,Farm Fresh [Small],Veg
+fd648,Paneer Bingo [Small],Veg
+fd649,Mexican Pizza [Small],Veg
+fd650,Paneer Tikka [Small],Veg
+fd651,Grills Special [Small],Veg
+fd652,Queen Margherita [Large],Veg
+fd653,Corn & Olive [Large],Veg
+fd654,Farm Fresh [Large],Veg
+fd655,Paneer Bingo [Large],Veg
+fd656,Mexican Pizza [Large],Veg
+fd657,Paneer Tikka [Large],Veg
+fd658,Garlic Exotica [Large],Veg
+fd659,Grills Special [Large],Veg
+fd660,Cheese & Capsicum,Veg
+fd661,Veggie Garden [Large],Veg
+fd662,The Lord of Cheese [Small],Veg
+fd663,The Lord of Cheese [Large],Veg
+fd664,Garlic Exotica [Small],Veg
+fd666,Loaded Garlic Bread,Veg
+fd667,Grilled Chicken Pizza [Small],Non-veg
+fd668,Chicken Makhani Pizza [Small],Non-veg
+fd669,Chicken Monster Pizza [Small],Non-veg
+fd670,Grilled Chicken Pizza [Large],Non-veg
+fd671,Chicken Kebab Pizza [Large],Non-veg
+fd672,Chicken Makhani Pizza [Large],Non-veg
+fd673,Peri Peri Chicken Pizza [Large],Non-veg
+fd674,Chicken Monster Pizza [Large],Non-veg
+fd675,Chicken Kebab Pizza [Small],Non-veg
+fd676,Peri Peri Chicken Pizza [Small],Non-veg
+fd677,Veg White Sauce Pasta,Veg
+fd678,Veg Red Sauce Pasta,Veg
+fd679,Veg Mix Sauce Pasta,Veg
+fd680,Tandoori Pasta,Veg
+fd681,Chicken White Sauce Pasta,Non-veg
+fd682,Chicken Red Sauce Pasta,Non-veg
+fd683,Chicken Mix Sauce Pasta,Non-veg
+fd684,Chicken Tandoori Pasta,Non-veg
+fd686,Naughty Strawberry,Veg
+fd689,Black Currant Shake,Veg
+fd691,Caramel Coffee,Veg
+fd692,Classic Oreo,Veg
+fd693,Chocolate Oreo,Veg
+fd694,Veryberry Oreo,Veg
+fd696,Virgin Mojito,Veg
+fd697,Peach Mojito,Veg
+fd698,Blueberry Mojito,Veg
+fd699,Watermelon Mojito,Veg
+fd700,Green Apple Mojito,Veg
+fd702,Chicken Leg [2 Pcs],Non-veg
+fd703,Chicken Wings [6 Pcs],Non-veg
+fd704,Chicken Strips [3 Pcs],Non-veg
+fd705,Peri Peri Chicken Popcorn,Non-veg
+fd706,Butter Chicken Popcorn,Non-veg
+fd707,Veg Crunch,Veg
+fd708,Paneer Crunch,Veg
+fd709,Chicken Salad,Non-veg
+fd710,Chicken Protein Diet,Non-veg
+fd711,Fiery Chicken Salad,Non-veg
+fd712,Chicken Salami Salad,Non-veg
+fd715,Cheese Loaded Fries,Veg
+fd716,Peri Peri Potato Pops,Veg
+fd718,Peri Peri Veggie Fingers,Veg
+fd719,Peri Peri Cheese Loaded,Veg
+fd720,Cheese Slice,Veg
+fd721,Salami,Non-veg
+fd722,Cheesy Dip,Veg
+fd723,Tandoori Dip,Veg
+fd724,Chilli Garlic Dip,Veg
+fd725,Island Dip,Veg
+fd726,Burger with Pizza Dip,Veg
+fd727,Mexican Cheese Burger,Veg
+fd728,Paneer Burger,Veg
+fd730,Mixed Veg Sandwich,Veg
+fd731,Jumbo Sandwich,Veg
+fd732,Paneer Sandwich,Veg
+fd733,8'' Corn Pizza,Veg
+fd734,8'' Tomato Pizza,Veg
+fd735,8'' Onion Pizza,Veg
+fd736,8'' Capsicum Pizza,Veg
+fd737,8'' Mix Veg Cheese Pizza,Veg
+fd738,8'' Yummy Paneer Treat Pizza,Veg
+fd739,8'' Veggie Loaded Pizza,Veg
+fd740,8'' Sweet Corn Cheese Pizza,Veg
+fd741,8'' Spicy Veggie Delight Pizza,Veg
+fd742,Mixed Veg Sandwizza,Veg
+fd744,Sweet Corn Sandwizza,Veg
+fd752,Chilli Shot Burger,Veg
+fd753,Mayo Burger,Veg
+fd754,Green Valley Burger,Veg
+fd759,Sweet Corn Sandwich,Veg
+fd760,Mexican Cheese Sandwich,Veg
+fd761,Herb Sandwich,Veg
+fd762,Pasta Sandwich,Veg
+fd766,8'' Plain Cheese Pizza,Veg
+fd773,8'' Exotic Mushroom Pizza,Veg
+fd774,8'' Potato Stick Pizza,Veg
+fd775,Butter Lemon Sweet Corn,Veg
+fd776,Pudina Sweet Corn,Veg
+fd777,Black Pepper Sweet Corn,Veg
+fd778,Spice Magic Sweet Corn,Veg
+fd779,Red Chilli Sweet Corn,Veg
+fd784,Sweet Corn Garlic Bread,Veg
+fd785,Mushroom Garlic Bread,Veg
+fd791,Masala Spiral Pasta In Bowl,Veg
+fd792,Masala Spiral Pasta In Cup,Veg
+fd793,Chana Masala,Veg
+fd794,Mix Vegetable,Veg
+fd795,Dal Makhani,Veg
+fd796,Aloo Gobi,Veg
+fd797,Dal Fry,Veg
+fd798,Yellow Dal Tadka,Veg
+fd799,Kadhi Pakora,Veg
+fd800,Mushroom Do Pyaza,Veg
+fd801,Veg Gravy,Veg
+fd803,Punjabi Paneer,Veg
+fd804,Cheese Tikka Butter Masala,Veg
+fd805,Cheese Butter Masala,Veg
+fd806,Cheese Tomato,Veg
+fd807,Malai Kofta,Veg
+fd808,Shahi Paneer,Veg
+fd809,Paneer Bhurji,Veg
+fd810,Palak Paneer,Veg
+fd811,Sarso Ka Saag Makhani,Veg
+fd812,Dum Aloo,Veg
+fd813,Mattar Paneer,Veg
+fd814,Butter Chapati,Veg
+fd815,Plain Chapati,Veg
+fd816,Butter Naan,Veg
+fd817,Veg Biryani,Veg
+fd818,Veg Pulao,Veg
+fd819,Cheese Chilli Gravy,Veg
+fd822,Veg Manchurian Gravy,Veg
+fd824,Chana Masala (Without Onion + Garlic) + Mix Veg (Without Onion + Garlic) + Veg Biryani (Without Onion + Garlic) + 4 Butter Naan,Veg
+fd825,Punjabi Paneer (Without Onion + Garlic) + Veg Biryani (Without Onion + Garlic) + 4 Missi Chapati,Veg
+fd826,Cheese Tomato (Without Onion + Garlic) + Chesse Butter Masala (Without Onion + Garlic) + 4 Butter Naan,Veg
+fd827,Palak Paneer (Without Onion + Garlic) + Veg Biryani (Without Onion + Garlic) + Veg Pulao (Without Onion + Garlic),Veg
+fd830,Butter Palak Mattar,Veg
+fd831,Butter Palak Kaju,Veg
+fd832,Butter Jeera Aloo,Veg
+fd833,Cream Palak,Veg
+fd834,Dal Maharani,Veg
+fd841,Achari Jeera Aloo,Veg
+fd842,Gobi Masala,Veg
+fd843,Baingan Bartha Makhani,Veg
+fd844,Kadhi Paneer Kofta,Veg
+fd845,Soya Butter Chaap Gravy,Veg
+fd846,Cream Malai Mattar,Veg
+fd849,Dal Kaju Butter Masala,Veg
+fd850,Kesar Shahi Paneer,Veg
+fd851,Kesar Malai Kofta,Veg
+fd852,Kesar Punjabi Paneer,Veg
+fd853,Kesar Paneer Do Pyaza,Veg
+fd854,Kesar Badami Paneer,Veg
+fd855,Butter Kaju Paneer,Veg
+fd856,Cheese Korma,Veg
+fd858,Mushroom Paneer Masala,Veg
+fd864,Mushroom Paneer,Veg
+fd867,Mattar Do Pyaza,Veg
+fd868,Butter Stuff Tomato,Veg
+fd869,Palak Malai Kofta,Veg
+fd870,Mushroom Mattar,Veg
+fd871,Saag Paneer,Veg
+fd876,Cheese Butter Handi,Veg
+fd877,Butter Sev Bhaji,Veg
+fd878,Potato Onion Parantha,Veg
+fd879,Mix Parantha,Veg
+fd880,Cheese Parantha,Veg
+fd881,Garlic Parantha,Veg
+fd883,Missi Chapati,Veg
+fd885,Churidar Parantha,Veg
+fd886,Butter Pyaz Mini Parantha,Veg
+fd887,Cream Parantha,Veg
+fd888,Cheese Naan,Veg
+fd890,Garlic Butter Naan,Veg
+fd892,Kesar Jeera Rice,Veg
+fd893,Paneer Jeera Rice,Veg
+fd895,Butter Jeera Rice,Veg
+fd896,Potato Chilli,Veg
+fd901,Mushroom Chilli,Veg
+fd903,Chana Fry,Veg
+fd905,Papad Masala,Veg
+fd906,Papad Dry,Veg
+fd907,Papad Fry,Veg
+fd908,Cream Salad,Veg
+fd909,Green Salad,Veg
+fd910,Dal,Veg
+fd911,Kadhi,Veg
+fd912,Mixed Veg,Veg
+fd913,Lehsun Chutney,Veg
+fd914,Dahi Fry,Veg
+fd915,Salad,Veg
+fd916,Simple Raita,Veg
+fd917,Mixed Raita,Veg
+fd918,Masala Raita,Veg
+fd919,Simple Roti,Veg
+fd920,Butter Roti,Veg
+fd921,Laccha Prantha,Veg
+fd922,Pyaz Prantha,Veg
+fd923,Aloo Prantha,Veg
+fd925,Dry Fruit Bhalla,Veg
+fd926,Cream Rajbhog,Veg
+fd927,Panipuri (12 Pcs),Veg
+fd928,Panipuri Atta (12 Pcs),Veg
+fd929,Pyaz Kachori,Veg
+fd930,Papdi Chaat,Veg
+fd931,Stuffed Golgappa,Veg
+fd940,Combao Pck,Veg
+fd941,Combo 3,Veg
+fd942,Pani Puri 12 Pcs,Veg
+fd943,Aloo Tikki With Chole,Veg
+fd944,Samosa With Chole,Veg
+fd945,Samosa With Chatni,Veg
+fd946,Papdi,Veg
+fd947,Raj Kachori,Veg
+fd948,Cream Rahbhog,Veg
+fd951,Aloo Patties,Veg
+fd952,Corn Paneer Sub,Veg
+fd953,Achari Paneer Sub,Veg
+fd954,Aloo Patty Sub,Veg
+fd955,Schezwan Fried Rice,Veg
+fd957,Achari Paneer Wrap,Veg
+fd958,Chawla Saab Special Wrap,Veg
+fd959,Mexican Wrap,Veg
+fd960,Cheese Wrap,Veg
+fd961,Veg Wraps,Veg
+fd962,Paneer Tikka Wrap,Veg
+fd963,Peri Peri Magic Paneer Burger,Veg
+fd964,Corn Classic Burger,Veg
+fd965,Tandoori Burger,Veg
+fd966,Barbeque Burger,Veg
+fd968,Carrot Juice Seasonal,Veg
+fd969,Keenu Juice Seasonal,Veg
+fd970,Carrot Keenu Mix Juice Seasonal,Veg
+fd971,Watermelon Juice,Veg
+fd972,Sugarcane Juice,Veg
+fd973,Mosami Juice,Veg
+fd974,Orange Juice Seasonal,Veg
+fd975,Pineapple Juice,Veg
+fd976,Falsa Juice Seasonal,Veg
+fd977,Mosami Pineapple Mix Juice,Veg
+fd978,Mix Fruit Juice,Veg
+fd979,Alu Bhukhara Juice Seasonal,Veg
+fd980,Anar Mix Juice,Veg
+fd981,Guava Juice,Veg
+fd982,Apple Juice Seasonal,Veg
+fd983,Anar Pineapple Mix Juice,Veg
+fd984,Anar Mosami Mix Juice,Veg
+fd985,Anar Orange Mix Juice Seasonal,Veg
+fd986,Anar Juice,Veg
+fd987,Choco Banana Shake,Veg
+fd988,Rose Shake,Veg
+fd989,Mango Shake Seasonal,Veg
+fd993,Papaya Shake,Veg
+fd994,Vanila Ice Cream Shake,Veg
+fd996,Dalogona Coffee [Medium],Veg
+fd997,Cheeku Shake Seasonal,Veg
+fd1000,Pincapple Milk Shake,Veg
+fd1001,Peanut Butter Shake,Veg
+fd1002,Kesar Badam Shake,Veg
+fd1003,Kesar Pista Shake,Veg
+fd1004,Kiwi Shake,Veg
+fd1005,Strawberry Banana Shake,Veg
+fd1006,Blueberry Shake,Veg
+fd1007,KitKat Shake,Veg
+fd1009,Snicker Shake,Veg
+fd1010,Dry Fruit Shake,Veg
+fd1011,Pan Milk Shake,Veg
+fd1012,Nutella Milk Shake,Veg
+fd1013,Otty Banana,Veg
+fd1014,Tangy Mango,Veg
+fd1015,Tangy Pineapple,Veg
+fd1016,Mango Breeze,Veg
+fd1017,Happy Tummy,Veg
+fd1018,Peanut Blast,Veg
+fd1019,Chia Shia,Veg
+fd1020,Cafe Mocha,Veg
+fd1021,Cucumber Crush,Veg
+fd1022,Kiwi Crush,Veg
+fd1023,Snickers Buzz,Veg
+fd1024,Red Dragon,Veg
+fd1025,Achari Paneer Sandwich,Veg
+fd1026,Chawlasaab Special Cheese Chilly Sandwich,Veg
+fd1027,Cold Sandwich,Veg
+fd1028,Grill Sandwich [Regular],Veg
+fd1029,Hot & Spicy Sandwich,Veg
+fd1030,Corn Paneer Sandwich,Veg
+fd1031,Chawlasaab Special Sandwich,Veg
+fd1032,Makhni Maggi,Veg
+fd1033,Maggi [Regular],Veg
+fd1034,Maggi Mint Flavour [Regular],Veg
+fd1035,Mix Veg Maggi,Veg
+fd1036,Tandoori Maggi,Veg
+fd1037,Hot & Spicy Maggi,Veg
+fd1038,Cheese butter maggi,Veg
+fd1039,Chawlasaab Special Maggi,Veg
+fd1040,Achari Maggi,Veg
+fd1041,Makhni Pasta,Veg
+fd1042,Dry Pasta,Veg
+fd1043,Achari Pasta,Veg
+fd1044,Red Sauce Pasta,Veg
+fd1045,White Sauce Pasta,Veg
+fd1046,Mix Sauce Pasta,Veg
+fd1047,Peri Peri Masala Fries Large,Veg
+fd1048,French Fries Large,Veg
+fd1049,Spiral Potato,Veg
+fd1050,French Fries Small,Veg
+fd1051,Peri Peri Masala Fries Small,Veg
+fd1052,Vegetable Poha,Veg
+fd1053,Peri Peri Magic Corn,Veg
+fd1054,Butter Corn,Veg
+fd1055,Salt & Black Pepper Corn,Veg
+fd1056,Pudina & Green Chilli Corn,Veg
+fd1057,Nachos Salad,Veg
+fd1058,Corn Cheese Nachos,Veg
+fd1059,Sweet Lassi,Veg
+fd1060,Masala Lassi,Veg
+fd1061,Strawberry Lassi,Veg
+fd1062,Mango Lassi,Veg
+fd1063,Bubble Gum,Veg
+fd1064,Masala Lemonade,Veg
+fd1069,Chocolate Protein Shake,Veg
+fd1070,Vanilla Protein Shake,Veg
+fd1071,Cookies & Cream Protein Shake,Veg
+fd1072,Julie 2pc,Veg
+fd1073,Kulfi Simple 1pc,Veg
+fd1074,Spongy Rasgulla Per Pc,Veg
+fd1075,Faluda Rabri Per Glass,Veg
+fd1076,Kulfi Big 1 Pc,Veg
+fd1077,Badam Milk (200 Ml) Bottle,Veg
+fd1078,Cream Malai Mater,Veg
+fd1079,Mushroom Do Piaza,Veg
+fd1085,Kesar Paneer Do Piaza,Veg
+fd1089,Cheese Plinda,Veg
+fd1091,Mashroom Paneer Masala,Veg
+fd1100,Mater Do Piaza,Veg
+fd1103,Mushroom Mater,Veg
+fd1108,Mater Paneer,Veg
+fd1109,Cheese Butter Nandi,Veg
+fd1113,Butter Palak Mater,Veg
+fd1118,Dal Makhani (Maah Chana),Veg
+fd1119,Aloo Gobhi,Veg
+fd1122,Karhi Pakora,Veg
+fd1125,Gobhi Masala,Veg
+fd1126,Bengan Bhartha Makhani,Veg
+fd1127,Soya Butter Chaap Gravy (Special),Veg
+fd1128,Potato Onion Paratha,Veg
+fd1129,Mix Paratha,Veg
+fd1130,Cheese  Paratha,Veg
+fd1131,Garlic Paratha,Veg
+fd1132,Vegetabel Cream Raita,Veg
+fd1133,Russian Fruit Raita,Veg
+fd1134,Pineapple Raita,Veg
+fd1135,Cream Boondi Raita,Veg
+fd1136,Curd,Veg
+fd1137,Butter Chappati,Veg
+fd1138,Missi Chappati,Veg
+fd1139,Plain Chappati,Veg
+fd1140,Churidaar Paratha,Veg
+fd1141,Butter Pin Mini Paratha,Veg
+fd1142,Cream Paratha,Veg
+fd1144,Buttter Naan,Veg
+fd1146,Butter Mini Paratha,Veg
+fd1150,Veg Pulav,Veg
+fd1164,Stuffed Golgappe,Veg
+fd1165,Papadi Chat,Veg
+fd1166,Dry Fruit Dahi Bhalla,Veg
+fd1167,Kachori,Veg
+fd1168,Rajbhog,Veg
+fd1170,Dal Handi,Veg
+fd1171,Dal Fry Yellow,Veg
+fd1174,Channa Masala,Veg
+fd1179,Jeera Aloo,Veg
+fd1181,Kaju Palak,Veg
+fd1182,Palak Corn,Veg
+fd1183,Corn Masala,Veg
+fd1185,Paneer Handi,Veg
+fd1186,Mutter Mushroom,Veg
+fd1187,Mutter Paneer,Veg
+fd1188,Methi Malai Mutter,Veg
+fd1189,Kadi Pakoda,Veg
+fd1190,Mushroom Kofta,Veg
+fd1191,Mushroom Masala,Veg
+fd1192,Palak Kofta,Veg
+fd1193,Achari Aloo,Veg
+fd1198,Gravy,Veg
+fd1200,Veg  Pulav,Veg
+fd1201,Mix Veg,Veg
+fd1203,Aloo Mutter,Veg
+fd1204,Paneer Do Pyaza,Veg
+fd1206,Onion Salad,Veg
+fd1207,Fruit Cream Salad,Veg
+fd1208,Fruit Salad,Veg
+fd1209,Cream Cucumber Salad,Veg
+fd1210,Plain Rice,Veg
+fd1211,Jeera Rice,Veg
+fd1212,Plain Dahi,Veg
+fd1213,Boondi Raita,Veg
+fd1214,Pudina Raita,Veg
+fd1216,Fruits Raita,Veg
+fd1217,Mix Raita,Veg
+fd1218,Aloo Paratha,Veg
+fd1219,Onion Paratha,Veg
+fd1220,Cheese Paratha,Veg
+fd1221,Mix  Paratha,Veg
+fd1224,Plain Naan,Veg
+fd1226,Stuff Naan,Veg
+fd1227,Garlic Naan,Veg
+fd1228,Laccha Paratha,Veg
+fd1229,Missi Roti,Veg
+fd1230,Onion Roti,Veg
+fd1231,Dry Papad,Veg
+fd1232,Channa Chat,Veg
+fd1233,Channa Fry,Veg
+fd1234,Cheese Chilli Dry,Veg
+fd1236,Cheese Chowmein,Veg
+fd1237,Finger Chips,Veg
+fd1238,Manchurian Dry,Veg
+fd1240,Paneer Pakora,Veg
+fd1241,Spring Roll,Veg
+fd1242,Veg Noodles,Veg
+fd1244,Veg Finger (8 Pcs),Veg
+fd1245,Cream Burger,Veg
+fd1246,Cheese Burger,Veg
+fd1247,Peanut Masala,Veg
+fd1249,Corn Chat,Veg
+fd1250,Tandoori Malai Chaap,Veg
+fd1252,Jeera Chaap,Veg
+fd1253,KFC Chaap,Veg
+fd1255,Tandoori Cheese Tikka,Veg
+fd1256,Tandoori Cheese Malai Tikka,Veg
+fd1258,Cheese Jeera,Veg
